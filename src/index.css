@@ -1,3 +1,32 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: cairo, sans-serif;
+  direction: rtl;
+}
+@font-face {
+  font-family: cairo;
+  src: url("../public/Cairo-VariableFont_slnt\,wght.ttf");
+}
+/* body {
+  overflow: hidden;
+  position: relative;
+} */
+
+.bg-home {
+  background-image: url(./images/bg.jpg);
+  height: 80vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.grid-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}

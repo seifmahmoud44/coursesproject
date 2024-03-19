@@ -2,11 +2,40 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
+import { RouterProvider, createBrowserRouter } from "react-router-dom";
+import Home from "./pages/Home";
+import Courses from "./pages/Courses";
+import OneCourse from "./pages/OneCourse";
+import Lesson from "./pages/Lesson";
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <App />,
+    children: [
+      {
+        index: true,
+        element: <Home />,
+      },
+      {
+        path: "courses",
+        element: <Courses />,
+      },
+      {
+        path: "onecourse",
+        element: <OneCourse />,
+      },
+      {
+        path: "Lesson",
+        element: <Lesson />,
+      },
+    ],
+  },
+]);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <App />
+    <RouterProvider router={router} />
   </React.StrictMode>
 );
 
