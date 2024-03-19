@@ -3,6 +3,7 @@ import englishflutter from "../englishflutter.json";
 import CourseCard from "../components/CourseCard";
 import englishCourseImg from "../images/fluterenglish.webp";
 import flutter from "../images/flutter.png";
+import dart from "../images/dart.png";
 
 const Home = () => {
   return (
@@ -23,7 +24,17 @@ const Home = () => {
           count={englishflutter.length}
           img={flutter}
         />
-        {/* <CourseCard
+        <CourseCard
+          text={"تعلم flutter باللغة العربية"}
+          count={englishflutter.length}
+          img={flutter}
+        />
+        <CourseCard
+          text={"Flutter Tutorial for Beginners"}
+          count={englishflutter.length}
+          img={dart}
+        />
+        <CourseCard
           text={"Flutter Tutorial for Beginners"}
           count={englishflutter.length}
           img={englishCourseImg}
@@ -32,7 +43,7 @@ const Home = () => {
           text={"Flutter Tutorial for Beginners"}
           count={englishflutter.length}
           img={englishCourseImg}
-        /> */}
+        />
       </div>
     </div>
   );
