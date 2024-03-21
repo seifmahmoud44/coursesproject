@@ -1,9 +1,9 @@
 import React from "react";
 import englishflutter from "../englishflutter.json";
 import CourseCard from "../components/CourseCard";
-import englishCourseImg from "../images/fluterenglish.webp";
+// import englishCourseImg from "../images/fluterenglish.webp";
 import flutter from "../images/flutter.png";
-import dart from "../images/dart.png";
+// import dart from "../images/dart.png";
 
 const Home = () => {
   return (
@@ -17,33 +17,22 @@ const Home = () => {
         </button>
       </div>
       {/* course section */}
-      <div className="w-5/6 m-auto max-md:w-full p-5 grid-cards">
-        <CourseCard
-          text={"Flutter Tutorial for Beginners"}
-          lang={"English"}
-          count={englishflutter.length}
-          img={flutter}
-        />
-        <CourseCard
-          text={"تعلم flutter باللغة العربية"}
-          count={englishflutter.length}
-          img={flutter}
-        />
-        <CourseCard
-          text={"Flutter Tutorial for Beginners"}
-          count={englishflutter.length}
-          img={dart}
-        />
-        <CourseCard
-          text={"Flutter Tutorial for Beginners"}
-          count={englishflutter.length}
-          img={englishCourseImg}
-        />
-        <CourseCard
-          text={"Flutter Tutorial for Beginners"}
-          count={englishflutter.length}
-          img={englishCourseImg}
-        />
+      <div id="courses">
+        <h1 className="text-center text-4xl py-9 font-bold">الكورسات</h1>
+        <div className="w-5/6 m-auto max-md:w-full p-5 grid-cards">
+          <CourseCard
+            text={"Flutter Tutorial for Beginners"}
+            lang={"English"}
+            count={englishflutter.length}
+            img={flutter}
+          />
+          <CourseCard
+            text={"تعلم flutter باللغة العربية"}
+            count={englishflutter.length}
+            lang={"العربية"}
+            img={flutter}
+          />
+        </div>
       </div>
     </div>
   );

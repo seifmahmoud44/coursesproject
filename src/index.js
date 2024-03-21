@@ -7,6 +7,7 @@ import Home from "./pages/Home";
 import Courses from "./pages/Courses";
 import OneCourse from "./pages/OneCourse";
 import Lesson from "./pages/Lesson";
+import Suggest from "./components/Suggest";
 const router = createBrowserRouter([
   {
     path: "/",
@@ -27,6 +28,10 @@ const router = createBrowserRouter([
       {
         path: "Lesson",
         element: <Lesson />,
+      },
+      {
+        path: "suggest",
+        element: <Suggest />,
       },
     ],
   },

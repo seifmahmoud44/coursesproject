@@ -8,6 +8,7 @@
   box-sizing: border-box;
   font-family: cairo, sans-serif;
   direction: rtl;
+  scroll-behavior: smooth;
 }
 @font-face {
   font-family: cairo;
@@ -29,4 +30,13 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 40px;
+}
+.other {
+  position: absolute;
+}
+
+.input-wow:focus + .other,
+.input-wow:valid + .other {
+  transform: translate(25%, -75%);
+  top: 100px;
 }

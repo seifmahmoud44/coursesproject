@@ -1,10 +1,9 @@
 import React from "react";
 import logo from "../images/WhatsApp Image 2024-03-16 at 11.22.04 PM.jpeg";
 import menuIcon from "../images/hamburger.png";
-import close from "../images/close.png";
 import { useNavigate } from "react-router-dom";
 
-function Navbar({ setOpenMenu, openMenu, none }) {
+function FakeNav({ setOpenMenu, openMenu, none }) {
   const navigate = useNavigate();
   return (
     <div className={` h-24 bg-black `}>
@@ -19,7 +18,6 @@ function Navbar({ setOpenMenu, openMenu, none }) {
           </h1>
           <a
             href="#courses"
-            // onClick={() => navigate("/#courses")}
             className="text-white hover:text-blue-300 transition-all cursor-pointer"
           >
             الكورسات
@@ -53,7 +51,7 @@ function Navbar({ setOpenMenu, openMenu, none }) {
           }}
           className="absolute right-5 top-5 text-white"
         >
-          <img src={close} alt="" className="w-10" />
+          close
         </button>
         <div className="h-full w-full flex flex-col justify-center items-start py-5 gap-10">
           <h1
@@ -90,4 +88,4 @@ function Navbar({ setOpenMenu, openMenu, none }) {
   );
 }
 
-export default Navbar;
+export default FakeNav;

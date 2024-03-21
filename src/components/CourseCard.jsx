@@ -1,9 +1,15 @@
 import React from "react";
 import arrow from "../images/arrow.png";
-const CourseCard = ({ img, text, count }) => {
+const CourseCard = ({ img, text, count, lang }) => {
   return (
     <div className="relative h-[400px] flex flex-col justify-between items-center border border-gray-300">
-      <div className="w-full p-5">
+      <div className="absolute top-3 left-0 bg-blue-500 text-white px-4 py-2">
+        <h2>{`${count} درس`}</h2>
+      </div>
+      <div className="absolute top-16 left-0 bg-red-600 text-white px-4 py-2">
+        <h2>{`${lang}`}</h2>
+      </div>
+      <div className="w-full p-5 h-64">
         <img src={img} alt="" className=" object-contain m-auto max-w-44" />
       </div>
       <div className="flex-grow w-full p-5 ">
