@@ -22,7 +22,7 @@ const router = createBrowserRouter([
         element: <Courses />,
       },
       {
-        path: "onecourse",
+        path: "onecourse/:name/:lecturer/:lang",
         element: <OneCourse />,
       },
       {

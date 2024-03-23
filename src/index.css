@@ -31,12 +31,61 @@
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 40px;
 }
-.other {
-  position: absolute;
+.input-container {
+  position: relative;
+  width: 100%;
+}
+.input-container input,
+.input-container textarea {
+  width: 100%;
+  background-color: transparent;
+  border: 1px solid #dddddd;
+  outline: none;
+  padding: 12px;
 }
 
-.input-wow:focus + .other,
-.input-wow:valid + .other {
-  transform: translate(25%, -75%);
-  top: 100px;
+.input-container label {
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+  transition: all 0.3s ease-in-out;
+  color: gray;
+}
+
+.input-container input:focus,
+.input-container input:valid {
+  border-color: black;
+}
+.input-container textarea:focus,
+.input-container textarea:valid {
+  border-color: black;
+}
+.input-container textarea:focus + label,
+.input-container textarea:valid + label {
+  top: 0;
+  background-color: white;
+  padding: 0 10px;
+  color: black;
+}
+.input-container input:focus + label,
+.input-container input:valid + label {
+  top: 0;
+  background-color: white;
+  padding: 0 10px;
+  color: black;
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+}
+.input-container:nth-child(6) label {
+  top: 25px;
+}
+
+.shadow-custom {
+  box-shadow: -9px 9px 13px 0px rgba(0, 0, 0, 0.1);
+}
+.vid iframe {
+  width: 100%;
 }

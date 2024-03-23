@@ -1,6 +1,13 @@
 import React from "react";
 import arrow from "../images/arrow.png";
-const CourseCard = ({ img, text, count, lang }) => {
+import { useNavigate } from "react-router-dom";
+
+const CourseCard = ({ img, text, count, lang, data }) => {
+  const navigate = useNavigate();
+
+  const handelClick = () => {
+    navigate(`/onecourse/${text}/${`Net Ninja`}/${lang}`, { state: data });
+  };
   return (
     <div className="relative h-[400px] flex flex-col justify-between items-center border border-gray-300">
       <div className="absolute top-3 left-0 bg-blue-500 text-white px-4 py-2">
@@ -25,7 +32,10 @@ const CourseCard = ({ img, text, count, lang }) => {
           >
             Net Ninja
           </a>
-          <div className="flex justify-between items-center gap-4 hover:gap-2 transition-all cursor-pointer hover:text-blue-500">
+          <div
+            onClick={handelClick}
+            className="flex justify-between items-center gap-4 hover:gap-2 transition-all cursor-pointer hover:text-blue-500"
+          >
             <p> تصفح الكورس</p>
             <img src={arrow} alt="" className="w-6 rotate-180 mt-1 g" />
           </div>

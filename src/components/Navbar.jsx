@@ -19,7 +19,7 @@ function Navbar({ setOpenMenu, openMenu, none }) {
           </h1>
           <a
             href="#courses"
-            // onClick={() => navigate("/#courses")}
+            onClick={() => navigate("/courses")}
             className="text-white hover:text-blue-300 transition-all cursor-pointer"
           >
             الكورسات
@@ -41,7 +41,7 @@ function Navbar({ setOpenMenu, openMenu, none }) {
           />
         </div>
       </div>
-      (
+
       <div
         className={`fixed top-0 left-0 w-screen h-full bg-black z-20  transition-all bg-opacity-70 ${
           openMenu ? "" : "-translate-x-full"
@@ -85,7 +85,6 @@ function Navbar({ setOpenMenu, openMenu, none }) {
           </h1>
         </div>
       </div>
-      )
     </div>
   );
 }
