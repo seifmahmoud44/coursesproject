@@ -7,7 +7,7 @@ import { useNavigate } from "react-router-dom";
 function Navbar({ setOpenMenu, openMenu, none }) {
   const navigate = useNavigate();
   return (
-    <div className={` h-24 bg-black `}>
+    <div id="navbar" className={` h-24 bg-black `}>
       <div className="  w-5/6 max-md:w-full m-auto flex max-md:justify-between justify-start items-center h-full max-md:px-5 ">
         <img src={logo} alt="" className="invert max-md:w-40 " />
         <div className="flex justify-center items-center h-full flex-grow gap-6 max-md:hidden ">

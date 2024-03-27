@@ -1,0 +1,78 @@
+[
+ {
+  "title": "Learn Swift online for FREE | Swift Basics #0",
+  "video": "<iframe width=\"946\" height=\"531\" src=\"https:\/\/www.youtube.com\/embed\/PwXgg9adkdM?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB\" title=\"Learn Swift online for FREE | Swift Basics #0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "How to code in Swift | Swift Basics #1",
+  "video": "<iframe width=\"946\" height=\"532\" src=\"https:\/\/www.youtube.com\/embed\/xfvdxQJj7Vw?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB\" title=\"How to code in Swift | Swift Basics #1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "How to use basic Types in Swift (Bool, String, Int) | Swift Basics #2",
+  "video": "<iframe width=\"946\" height=\"532\" src=\"https:\/\/www.youtube.com\/embed\/JeoaCW9fO0w?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB\" title=\"How to use basic Types in Swift (Bool, String, Int) | Swift Basics #2\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "How to use Variables and Constants | Swift Basics #3",
+  "video": "<iframe width=\"946\" height=\"532\" src=\"https:\/\/www.youtube.com\/embed\/jRNa6hYTJLo?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB\" title=\"How to use Variables and Constants | Swift Basics #3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "How to write if-statements and use operators | Swift Basics #4",
+  "video": "<iframe width=\"946\" height=\"532\" src=\"https:\/\/www.youtube.com\/embed\/Q0DBDJqT3Ps?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB\" title=\"How to write if-statements and use operators | Swift Basics #4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "How to use Functions in Swift | Swift Basics #5",
+  "video": "<iframe width=\"946\" height=\"532\" src=\"https:\/\/www.youtube.com\/embed\/kr3SSplrJlw?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB\" title=\"How to use Functions in Swift | Swift Basics #5\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "How to use Optionals in Swift | Swift Basics #6",
+  "video": "<iframe width=\"946\" height=\"532\" src=\"https:\/\/www.youtube.com\/embed\/PDWNf4pBI64?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB\" title=\"How to use Optionals in Swift | Swift Basics #6\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "How to use Tuples in Swift | Swift Basics #7",
+  "video": "<iframe width=\"946\" height=\"532\" src=\"https:\/\/www.youtube.com\/embed\/zsjCrtENsZA?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB\" title=\"How to use Tuples in Swift | Swift Basics #7\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "What is Object Oriented Programming for Swift | Swift Basics #8",
+  "video": "<iframe width=\"946\" height=\"532\" src=\"https:\/\/www.youtube.com\/embed\/XdZUVmqIkJE?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB\" title=\"What is Object Oriented Programming for Swift | Swift Basics #8\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "How to use Structs in Swift | Swift Basics #9",
+  "video": "<iframe width=\"946\" height=\"532\" src=\"https:\/\/www.youtube.com\/embed\/gRKlprUj-I8?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB\" title=\"How to use Structs in Swift | Swift Basics #9\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "How to use Enums in Swift | Swift Basics #10",
+  "video": "<iframe width=\"946\" height=\"532\" src=\"https:\/\/www.youtube.com\/embed\/YPUCML__Md8?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB\" title=\"How to use Enums in Swift | Swift Basics #10\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "How to use Classes in Swift | Swift Basics #11",
+  "video": "<iframe width=\"946\" height=\"532\" src=\"https:\/\/www.youtube.com\/embed\/xJgtknc-7CA?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB\" title=\"How to use Classes in Swift | Swift Basics #11\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "How to use Access Control (Private vs Public) | Swift Basics #12",
+  "video": "<iframe width=\"946\" height=\"532\" src=\"https:\/\/www.youtube.com\/embed\/UbX2UtgZTJI?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB\" title=\"How to use Access Control (Private vs Public) | Swift Basics #12\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "How to use Arrays and Sets in Swift | Swift Basics #13",
+  "video": "<iframe width=\"946\" height=\"532\" src=\"https:\/\/www.youtube.com\/embed\/_SRaZjPuYOQ?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB\" title=\"How to use Arrays and Sets in Swift | Swift Basics #13\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "How to use Dictionaries in Swift | Swift Basics #14",
+  "video": "<iframe width=\"946\" height=\"532\" src=\"https:\/\/www.youtube.com\/embed\/ctBEqA0wh3M?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB\" title=\"How to use Dictionaries in Swift | Swift Basics #14\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "How to use For Each Loops in Swift | Swift Basics #15",
+  "video": "<iframe width=\"946\" height=\"532\" src=\"https:\/\/www.youtube.com\/embed\/7hAmXRwBQxc?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB\" title=\"How to use For Each Loops in Swift | Swift Basics #15\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "How to Filter, Sort, and Map in Swift | Swift Basics #16",
+  "video": "<iframe width=\"946\" height=\"532\" src=\"https:\/\/www.youtube.com\/embed\/NkOU60vwUEY?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB\" title=\"How to Filter, Sort, and Map in Swift | Swift Basics #16\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "What is a Protocol in Swift and SwiftUI View protocol | Swift Basics #17",
+  "video": "<iframe width=\"946\" height=\"532\" src=\"https:\/\/www.youtube.com\/embed\/nJmrkRlRu88?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB\" title=\"What is a Protocol in Swift and SwiftUI View protocol | Swift Basics #17\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "Learn Swift online for FREE Series Conclusion | Swift Basics #18",
+  "video": "<iframe width=\"946\" height=\"532\" src=\"https:\/\/www.youtube.com\/embed\/3284ruY8jbg?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB\" title=\"Learn Swift online for FREE Series Conclusion | Swift Basics #18\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ }
+]

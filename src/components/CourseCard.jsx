@@ -2,11 +2,13 @@ import React from "react";
 import arrow from "../images/arrow.png";
 import { useNavigate } from "react-router-dom";
 
-const CourseCard = ({ img, text, count, lang, data }) => {
+const CourseCard = ({ img, text, count, lang, data, authur }) => {
   const navigate = useNavigate();
 
   const handelClick = () => {
-    navigate(`/onecourse/${text}/${`Net Ninja`}/${lang}`, { state: data });
+    navigate(`/onecourse/${text}/${`Net Ninja`}/${lang}`, {
+      state: data,
+    });
   };
   return (
     <div className="relative h-[400px] flex flex-col justify-between items-center border border-gray-300">
@@ -24,14 +26,14 @@ const CourseCard = ({ img, text, count, lang, data }) => {
 
         <p className="">كورس Flutter باللغة الانجليزية</p>
         <div className="flex justify-between items-center  ">
-          <a
+          <p
             rel="noreferrer"
             href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ"
             target="_blank"
             className="hover:text-blue-500 transition-all"
           >
-            Net Ninja
-          </a>
+            {authur}
+          </p>
           <div
             onClick={handelClick}
             className="flex justify-between items-center gap-4 hover:gap-2 transition-all cursor-pointer hover:text-blue-500"

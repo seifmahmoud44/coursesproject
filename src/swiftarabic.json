@@ -1,0 +1,82 @@
+[
+ {
+  "title": "1 - Swift High-level programming language",
+  "video": "<iframe width=\"1857\" height=\"755\" src=\"https:\/\/www.youtube.com\/embed\/2YR54Q_rKTI?list=PLMYF6NkLrdN9wK4LyaQf7f_Cg_wg5S3zj\" title=\"1 - Swift High-level programming language\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "2 - Swift | Variables, Syntax",
+  "video": "<iframe width=\"1857\" height=\"755\" src=\"https:\/\/www.youtube.com\/embed\/EctYq4RS_PA?list=PLMYF6NkLrdN9wK4LyaQf7f_Cg_wg5S3zj\" title=\"2 - Swift | Variables, Syntax\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "3 - Swift | String & Integer",
+  "video": "<iframe width=\"895\" height=\"512\" src=\"https:\/\/www.youtube.com\/embed\/PbttCabtW6Q?list=PLMYF6NkLrdN9wK4LyaQf7f_Cg_wg5S3zj\" title=\"3 - Swift | String &amp; Integer\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "4 - Swift | String & Double",
+  "video": "<iframe width=\"895\" height=\"512\" src=\"https:\/\/www.youtube.com\/embed\/UzZ37vk6f3w?list=PLMYF6NkLrdN9wK4LyaQf7f_Cg_wg5S3zj\" title=\"4 - Swift | String &amp; Double\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "5 - Swift | Arrays",
+  "video": "<iframe width=\"895\" height=\"512\" src=\"https:\/\/www.youtube.com\/embed\/ysSCnij7lmk?list=PLMYF6NkLrdN9wK4LyaQf7f_Cg_wg5S3zj\" title=\"5 - Swift | Arrays\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "6 - Swift | Dictionary",
+  "video": "<iframe width=\"895\" height=\"512\" src=\"https:\/\/www.youtube.com\/embed\/BXL-y8AsZgU?list=PLMYF6NkLrdN9wK4LyaQf7f_Cg_wg5S3zj\" title=\"6 - Swift | Dictionary\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "7 - Swift | Sets",
+  "video": "<iframe width=\"895\" height=\"512\" src=\"https:\/\/www.youtube.com\/embed\/Mvr9OIT9etc?list=PLMYF6NkLrdN9wK4LyaQf7f_Cg_wg5S3zj\" title=\"7 - Swift | Sets\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "8 - Swift | if...else if...else Statement - Decision Making",
+  "video": "<iframe width=\"895\" height=\"512\" src=\"https:\/\/www.youtube.com\/embed\/GrHcYlL2wbk?list=PLMYF6NkLrdN9wK4LyaQf7f_Cg_wg5S3zj\" title=\"8 - Swift | if...else if...else Statement - Decision Making\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "9 - Swift | Switch statement - Decision Making",
+  "video": "<iframe width=\"895\" height=\"512\" src=\"https:\/\/www.youtube.com\/embed\/6W7AnoW84QU?list=PLMYF6NkLrdN9wK4LyaQf7f_Cg_wg5S3zj\" title=\"9 - Swift | Switch statement - Decision Making\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "10 - Swift | Loops - for-in, while, continue, break and guard statement",
+  "video": "<iframe width=\"895\" height=\"512\" src=\"https:\/\/www.youtube.com\/embed\/p3SQmSdonow?list=PLMYF6NkLrdN9wK4LyaQf7f_Cg_wg5S3zj\" title=\"10 - Swift | Loops - for-in, while, continue, break and guard statement\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "11 - Swift | Functions - Parameter, Return Values, Argument, Omit Argument, Variadic and Overloading",
+  "video": "<iframe width=\"895\" height=\"512\" src=\"https:\/\/www.youtube.com\/embed\/E9A5Qvm3cNQ?list=PLMYF6NkLrdN9wK4LyaQf7f_Cg_wg5S3zj\" title=\"11 - Swift | Functions - Parameter, Return Values, Argument, Omit Argument, Variadic and Overloading\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "12 - Swift | Structs - Properties, Initializer and Function",
+  "video": "<iframe width=\"895\" height=\"512\" src=\"https:\/\/www.youtube.com\/embed\/KIw3iaw1TeA?list=PLMYF6NkLrdN9wK4LyaQf7f_Cg_wg5S3zj\" title=\"12 - Swift | Structs - Properties, Initializer and Function\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "13 - Swift OOP |Classes and Objects (Properties, Computed Property and Initializer)",
+  "video": "<iframe width=\"895\" height=\"512\" src=\"https:\/\/www.youtube.com\/embed\/AvjKxz56lrw?list=PLMYF6NkLrdN9wK4LyaQf7f_Cg_wg5S3zj\" title=\"13 - Swift OOP |Classes and Objects (Properties, Computed Property and Initializer)\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "14 - Swift OOP | static Keyword, self property, mutating, Inheritance, super Keyword and Overriding",
+  "video": "<iframe width=\"895\" height=\"512\" src=\"https:\/\/www.youtube.com\/embed\/8gJ7AWopT4s?list=PLMYF6NkLrdN9wK4LyaQf7f_Cg_wg5S3zj\" title=\"14 - Swift OOP | static Keyword, self property, mutating, Inheritance, super Keyword and Overriding\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "15 - Swift UI | install Xcode IDE",
+  "video": "<iframe width=\"895\" height=\"512\" src=\"https:\/\/www.youtube.com\/embed\/zpyWQxEcNP0?list=PLMYF6NkLrdN9wK4LyaQf7f_Cg_wg5S3zj\" title=\"15 - Swift UI | install Xcode IDE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "16 - Swift UI | Button",
+  "video": "<iframe width=\"895\" height=\"512\" src=\"https:\/\/www.youtube.com\/embed\/iJZksks6W3E?list=PLMYF6NkLrdN9wK4LyaQf7f_Cg_wg5S3zj\" title=\"16 - Swift UI | Button\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "17 - Swift UI | Button (Style, Label, Font, Action, icon and Image)",
+  "video": "<iframe width=\"895\" height=\"512\" src=\"https:\/\/www.youtube.com\/embed\/F4RbzmeLgic?list=PLMYF6NkLrdN9wK4LyaQf7f_Cg_wg5S3zj\" title=\"17 - Swift UI | Button (Style, Label, Font, Action, icon and Image)\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "18 - Swift UI | Layouts -Form, Groups, Section, VStack, HStack, Zstack",
+  "video": "<iframe width=\"895\" height=\"512\" src=\"https:\/\/www.youtube.com\/embed\/8esMtX87haA?list=PLMYF6NkLrdN9wK4LyaQf7f_Cg_wg5S3zj\" title=\"18 - Swift UI | Layouts -Form, Groups, Section, VStack, HStack, ZStack\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "19 - Swift UI | Layouts - LazyVStack, LazyHStack, Padding, Grid, image and Label",
+  "video": "<iframe width=\"895\" height=\"512\" src=\"https:\/\/www.youtube.com\/embed\/PQ_4H3HO7D0?list=PLMYF6NkLrdN9wK4LyaQf7f_Cg_wg5S3zj\" title=\"19 - Swift UI | Layouts - LazyVStack, LazyHStack, Padding, Grid, image and Label\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "20 - Swift UI | List, Toggle, Navigation view and Text",
+  "video": "<iframe width=\"895\" height=\"512\" src=\"https:\/\/www.youtube.com\/embed\/N_LPanda8T8?list=PLMYF6NkLrdN9wK4LyaQf7f_Cg_wg5S3zj\" title=\"20 - Swift UI | List, Toggle, Navigation view and Text\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+ }
+]

@@ -2,6 +2,10 @@ import React from "react";
 import CourseCard from "../components/CourseCard";
 import flutter from "../images/flutter.png";
 import englishflutter from "../englishflutter.json";
+import arabicflutter from "../arabicflutter.json";
+import swiftarabic from "../swiftarabic.json";
+import swiftenglish from "../swiftenglish.json";
+import swift from "../images/swift.png";
 
 const Courses = () => {
   return (
@@ -14,13 +18,31 @@ const Courses = () => {
           count={englishflutter.length}
           img={flutter}
           data={englishflutter}
+          authur={"Net Ninja"}
         />
         <CourseCard
           text={"تعلم flutter باللغة العربية"}
-          count={englishflutter.length}
+          count={arabicflutter.length}
           lang={"العربية"}
           img={flutter}
-          data={englishflutter}
+          data={arabicflutter}
+          authur={"Weal Abo Hamza"}
+        />
+        <CourseCard
+          text={"learn Swift with English"}
+          count={swiftenglish.length}
+          lang={"English"}
+          img={swift}
+          data={swiftenglish}
+          authur={"Swiftful Thinking"}
+        />
+        <CourseCard
+          text={"تعلم Swift باللغة العربية"}
+          count={swiftarabic.length}
+          lang={"العربية"}
+          img={swift}
+          data={swiftarabic}
+          authur={"Muhammed Essa"}
         />
       </div>
     </div>

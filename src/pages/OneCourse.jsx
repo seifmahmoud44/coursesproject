@@ -8,7 +8,7 @@ const OneCourse = () => {
 
   const { name, lecturer, lang } = useParams();
   return (
-    <div className="w-5/6 m-auto max-md:w-full px-5 bg-[#FFFFFF]">
+    <div id="main" className="w-5/6 m-auto max-md:w-full px-5 bg-[#FFFFFF] ">
       <h1 className="text-center text-3xl font-bold my-10">{name}</h1>
       <div className="flex justify-between items-start max-md:flex-col gap-10">
         <div className="w-2/3 max-md:w-full shadow-custom p-10 border border-gray-200 rounded-md">
