@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import logo from "../images/WhatsApp Image 2024-03-16 at 11.22.04 PM.jpeg";
 import menuIcon from "../images/hamburger.png";
@@ -17,13 +18,29 @@ function Navbar({ setOpenMenu, openMenu, none }) {
           >
             الرئيسية
           </h1>
-          <a
-            href="#courses"
-            onClick={() => navigate("/courses")}
-            className="text-white hover:text-blue-300 transition-all cursor-pointer"
-          >
-            الكورسات
-          </a>
+          <div className="group relative ">
+            <h1
+              onClick={() => navigate("/roadmaps")}
+              className="text-white hover:text-blue-300 transition-all cursor-pointer"
+            >
+              مسارات
+            </h1>
+
+            <div className="z-20 rounded-md border-t-4 border-red-300 group-hover:block hidden absolute top-full left-1/2 -translate-x-1/2 w-fit h-fit bg-white shadow-md text-black ">
+              <h1
+                onClick={() => navigate("/android")}
+                className="cursor-pointer py-3 px-5 hover:bg-slate-300 transition-all"
+              >
+                Android
+              </h1>
+              <h1
+                onClick={() => navigate("/ios")}
+                className="cursor-pointer py-3 px-5 hover:bg-slate-300 transition-all"
+              >
+                IOS
+              </h1>
+            </div>
+          </div>
           <h1
             onClick={() => navigate("/suggest")}
             className="text-white hover:text-blue-300 transition-all cursor-pointer"

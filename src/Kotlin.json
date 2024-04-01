@@ -1,0 +1,82 @@
+[
+ {
+  "title": "0 - Intro and Setup",
+  "video": "<iframe width=\"847\" height=\"475\" src=\"https:\/\/www.youtube.com\/embed\/yyMXxVUgOvU?list=PLtKieDCcPOxID21S99h9CEyXN5e1jne_v\" title=\"0 - Intro and Setup\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "1 - Data type variables",
+  "video": "<iframe width=\"1262\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/HiwEvRAidR8?list=PLtKieDCcPOxID21S99h9CEyXN5e1jne_v\" title=\"1 - Data type  variables\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "2 - How to print",
+  "video": "<iframe width=\"1262\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/03OOW_R1s-Q?list=PLtKieDCcPOxID21S99h9CEyXN5e1jne_v\" title=\"2 - How to print\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "3 - Operators_1",
+  "video": "<iframe width=\"1262\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/PYkAI8jb_5I?list=PLtKieDCcPOxID21S99h9CEyXN5e1jne_v\" title=\"3 - Operators_1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "4 - Operators_2",
+  "video": "<iframe width=\"1262\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/s8mvhh3uMsw?list=PLtKieDCcPOxID21S99h9CEyXN5e1jne_v\" title=\"4 - Operators_2\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "5 - Operators_3",
+  "video": "<iframe width=\"1857\" height=\"755\" src=\"https:\/\/www.youtube.com\/embed\/FPbor4R5OAM?list=PLtKieDCcPOxID21S99h9CEyXN5e1jne_v\" title=\"5 - Operators_3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "6 - Operators_4",
+  "video": "<iframe width=\"1857\" height=\"755\" src=\"https:\/\/www.youtube.com\/embed\/UgTWAdmTTrg?list=PLtKieDCcPOxID21S99h9CEyXN5e1jne_v\" title=\"6 - Operators_4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "7 - If else",
+  "video": "<iframe width=\"1857\" height=\"755\" src=\"https:\/\/www.youtube.com\/embed\/7D_a9WBvh48?list=PLtKieDCcPOxID21S99h9CEyXN5e1jne_v\" title=\"7 - If else\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "9 - Null in Kotlin - شرح عربي",
+  "video": "<iframe width=\"1857\" height=\"755\" src=\"https:\/\/www.youtube.com\/embed\/yPR0H783KRY?list=PLtKieDCcPOxID21S99h9CEyXN5e1jne_v\" title=\"9 - Null in Kotlin - شرح عربي\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "10 - Read Inputs",
+  "video": "<iframe width=\"1857\" height=\"755\" src=\"https:\/\/www.youtube.com\/embed\/muwKpyDm4os?list=PLtKieDCcPOxID21S99h9CEyXN5e1jne_v\" title=\"10 - Read Inputs\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "11 - For Loop",
+  "video": "<iframe width=\"1262\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/OpHHP0v4N58?list=PLtKieDCcPOxID21S99h9CEyXN5e1jne_v\" title=\"11 - For Loop\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "12 - For Loop Examples",
+  "video": "<iframe width=\"1262\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/lG1P3g-5eIk?list=PLtKieDCcPOxID21S99h9CEyXN5e1jne_v\" title=\"12 - For Loop Examples\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "13 - While and Do While with Examples",
+  "video": "<iframe width=\"1262\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/C-ApTVHlUks?list=PLtKieDCcPOxID21S99h9CEyXN5e1jne_v\" title=\"13 - While and Do While with Examples\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "14 - Functions",
+  "video": "<iframe width=\"1262\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/6DzIHXpo2UU?list=PLtKieDCcPOxID21S99h9CEyXN5e1jne_v\" title=\"14 - Functions\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "15 - Var Args",
+  "video": "<iframe width=\"1857\" height=\"755\" src=\"https:\/\/www.youtube.com\/embed\/yBNi7gb9Jmk?list=PLtKieDCcPOxID21S99h9CEyXN5e1jne_v\" title=\"15  - Var Args\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "16 - Lambda",
+  "video": "<iframe width=\"1262\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/72t1YMz5NLw?list=PLtKieDCcPOxID21S99h9CEyXN5e1jne_v\" title=\"16 -  Lambda\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "17 - High Order Function",
+  "video": "<iframe width=\"1262\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/HtXHOlm1UDk?list=PLtKieDCcPOxID21S99h9CEyXN5e1jne_v\" title=\"17 - High Order Function\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "18 - Infix",
+  "video": "<iframe width=\"1262\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/IPLCSuFSOK4?list=PLtKieDCcPOxID21S99h9CEyXN5e1jne_v\" title=\"18 - Infix\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "19 - Array",
+  "video": "<iframe width=\"1280\" height=\"680\" src=\"https:\/\/www.youtube.com\/embed\/aAcXaoXJcag?list=PLtKieDCcPOxID21S99h9CEyXN5e1jne_v\" title=\"19 - Array\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "20 - List",
+  "video": "<iframe width=\"1280\" height=\"680\" src=\"https:\/\/www.youtube.com\/embed\/8K4ZxMd4UKQ?list=PLtKieDCcPOxID21S99h9CEyXN5e1jne_v\" title=\"20 - List\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ }
+]

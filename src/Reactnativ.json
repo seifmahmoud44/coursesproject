@@ -1,0 +1,78 @@
+[
+ {
+  "title": "React Native مقدمة عن",
+  "video": "<iframe width=\"1857\" height=\"755\" src=\"https:\/\/www.youtube.com\/embed\/Q_NZQ9f80h4?list=PL-xHV5YBTkh44tDRcKvlx8FGsdYwld99V\" title=\"React Native مقدمة عن\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "React Native - First App",
+  "video": "<iframe width=\"1259\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/SiDt4oLo9xM?list=PL-xHV5YBTkh44tDRcKvlx8FGsdYwld99V\" title=\"React Native - First App\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "React Native - Components and Styling",
+  "video": "<iframe width=\"1259\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/RR8-emSmjyc?list=PL-xHV5YBTkh44tDRcKvlx8FGsdYwld99V\" title=\"React Native - Components and Styling\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "React Native - Styling: Width, Height, and Background Color",
+  "video": "<iframe width=\"1259\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/EkJ2hIUEEDY?list=PL-xHV5YBTkh44tDRcKvlx8FGsdYwld99V\" title=\"React Native - Styling: Width, Height, and Background Color\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "React Native - Styling: Margin and Padding",
+  "video": "<iframe width=\"1259\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/lBpvXJU3vxQ?list=PL-xHV5YBTkh44tDRcKvlx8FGsdYwld99V\" title=\"React Native - Styling: Margin and Padding\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "React Native - Styling: Text Styles",
+  "video": "<iframe width=\"1259\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/Wn3NwOaDip0?list=PL-xHV5YBTkh44tDRcKvlx8FGsdYwld99V\" title=\"React Native - Styling: Text Styles\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "React Native - Styling: Flex and Flex Direction",
+  "video": "<iframe width=\"1259\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/xGW3gZHtq_s?list=PL-xHV5YBTkh44tDRcKvlx8FGsdYwld99V\" title=\"React Native - Styling: Flex and Flex Direction\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "React Native - Styling: Justify Content and Align Items",
+  "video": "<iframe width=\"1259\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/Pz-D0FBrwJU?list=PL-xHV5YBTkh44tDRcKvlx8FGsdYwld99V\" title=\"React Native - Styling: Justify Content and Align Items\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "React Native - Styling: Abstract Position",
+  "video": "<iframe width=\"1259\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/RPsYFg9rcMY?list=PL-xHV5YBTkh44tDRcKvlx8FGsdYwld99V\" title=\"React Native - Styling: Abstract Position\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "React Native - Components: Basics",
+  "video": "<iframe width=\"1259\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/rsnp8h2gQMQ?list=PL-xHV5YBTkh44tDRcKvlx8FGsdYwld99V\" title=\"React Native - Components: Basics\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "React Native - Components: View and Text",
+  "video": "<iframe width=\"1259\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/nc1O7CgTqiw?list=PL-xHV5YBTkh44tDRcKvlx8FGsdYwld99V\" title=\"React Native - Components: View and Text\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "React Native - Components: Button",
+  "video": "<iframe width=\"1259\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/KcWzFkvUC8E?list=PL-xHV5YBTkh44tDRcKvlx8FGsdYwld99V\" title=\"React Native - Components: Button\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "React Native - Components: Flatlist",
+  "video": "<iframe width=\"1259\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/mrT7LU0pT9Q?list=PL-xHV5YBTkh44tDRcKvlx8FGsdYwld99V\" title=\"React Native - Components: Flatlist\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "React Native - How To Search For New Components",
+  "video": "<iframe width=\"1259\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/JiIqPdHslgI?list=PL-xHV5YBTkh44tDRcKvlx8FGsdYwld99V\" title=\"React Native - How To Search For New Components\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "React Native - Use State",
+  "video": "<iframe width=\"1259\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/YDf9zuc_3XY?list=PL-xHV5YBTkh44tDRcKvlx8FGsdYwld99V\" title=\"React Native - Use State\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "React Native - Navigation",
+  "video": "<iframe width=\"1259\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/M51v61eWZMo?list=PL-xHV5YBTkh44tDRcKvlx8FGsdYwld99V\" title=\"React Native - Navigation\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "React Native - Export and Import",
+  "video": "<iframe width=\"1266\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/HbplmSplA7w?list=PL-xHV5YBTkh44tDRcKvlx8FGsdYwld99V\" title=\"React Native - Export and Import\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "React Native - Fetching Data From an API",
+  "video": "<iframe width=\"1266\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/L74WCaxtRRY?list=PL-xHV5YBTkh44tDRcKvlx8FGsdYwld99V\" title=\"React Native - Fetching Data From an API\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ },
+ {
+  "title": "Redux - شرح بالعربي",
+  "video": "<iframe width=\"1259\" height=\"708\" src=\"https:\/\/www.youtube.com\/embed\/0U9f0Oaf9WY?list=PL-xHV5YBTkh44tDRcKvlx8FGsdYwld99V\" title=\"Redux - شرح بالعربي\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+ }
+]

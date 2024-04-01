@@ -1,14 +1,9 @@
 import React from "react";
-import englishflutter from "../englishflutter.json";
-import CourseCard from "../components/CourseCard";
-
-import flutter from "../images/flutter.png";
-import swift from "../images/swift.png";
-import arabicflutter from "../arabicflutter.json";
-import swiftenglish from "../swiftenglish.json";
-import swiftarabic from "../swiftarabic.json";
+import ios from "../images/ios.png";
+import android from "../images/android.png";
 
 import { useNavigate } from "react-router-dom";
+import RoadCard from "../components/RoadCard";
 // import dart from "../images/dart.png";
 
 const Home = () => {
@@ -27,41 +22,12 @@ const Home = () => {
         </button>
       </div>
       {/* course section */}
+
       <div id="courses">
-        <h1 className="text-center text-4xl py-9 font-bold">الكورسات</h1>
-        <div className="w-5/6 m-auto max-md:w-full p-5 grid-cards">
-          <CourseCard
-            text={"Flutter Tutorial for Beginners"}
-            lang={"English"}
-            count={englishflutter.length}
-            img={flutter}
-            data={englishflutter}
-            authur={"Net Ninja"}
-          />
-          <CourseCard
-            text={"تعلم flutter باللغة العربية"}
-            count={arabicflutter.length}
-            lang={"العربية"}
-            img={flutter}
-            data={arabicflutter}
-            authur={"Weal Abo Hamza"}
-          />
-          <CourseCard
-            text={"learn Swift with English"}
-            count={swiftenglish.length}
-            lang={"English"}
-            img={swift}
-            data={swiftenglish}
-            authur={"Swiftful Thinking"}
-          />
-          <CourseCard
-            text={"تعلم Swift باللغة العربية"}
-            count={swiftarabic.length}
-            lang={"العربية"}
-            img={swift}
-            data={swiftarabic}
-            authur={"Muhammed Essa"}
-          />
+        <h1 className="text-center text-4xl py-9 font-bold">المسارات</h1>
+        <div className="w-5/6 m-auto max-md:w-full p-5 flex justify-around items-center">
+          <RoadCard img={android} count={5} url={"android"} />
+          <RoadCard img={ios} count={3} url={"ios"} />
         </div>
       </div>
     </div>

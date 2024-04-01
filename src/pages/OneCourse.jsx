@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { useLocation, useNavigate, useParams } from "react-router-dom";
 
 const OneCourse = () => {
@@ -7,6 +7,9 @@ const OneCourse = () => {
   const { state } = location;
 
   const { name, lecturer, lang } = useParams();
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }, []);
   return (
     <div id="main" className="w-5/6 m-auto max-md:w-full px-5 bg-[#FFFFFF] ">
       <h1 className="text-center text-3xl font-bold my-10">{name}</h1>

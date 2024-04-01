@@ -4,10 +4,14 @@ import "./index.css";
 import App from "./App";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import Home from "./pages/Home";
-import Courses from "./pages/Courses";
+
 import OneCourse from "./pages/OneCourse";
 import Lesson from "./pages/Lesson";
 import Suggest from "./components/Suggest";
+import RoadMaps from "./pages/RoadMaps";
+import Android from "./pages/Android";
+import Ios from "./pages/Ios";
+
 const router = createBrowserRouter([
   {
     path: "/",
@@ -18,8 +22,8 @@ const router = createBrowserRouter([
         element: <Home />,
       },
       {
-        path: "courses",
-        element: <Courses />,
+        path: "roadmaps",
+        element: <RoadMaps />,
       },
       {
         path: "onecourse/:name/:lecturer/:lang",
@@ -32,6 +36,14 @@ const router = createBrowserRouter([
       {
         path: "suggest",
         element: <Suggest />,
+      },
+      {
+        path: "android",
+        element: <Android />,
+      },
+      {
+        path: "ios",
+        element: <Ios />,
       },
     ],
   },
