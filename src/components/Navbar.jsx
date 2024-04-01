@@ -39,6 +39,12 @@ function Navbar({ setOpenMenu, openMenu, none }) {
               >
                 IOS
               </h1>
+              <h1
+                onClick={() => navigate("/crossplateform")}
+                className="cursor-pointer py-3 px-5 hover:bg-slate-300 transition-all text-nowrap"
+              >
+                Cross Plateform
+              </h1>
             </div>
           </div>
           <h1
@@ -84,12 +90,12 @@ function Navbar({ setOpenMenu, openMenu, none }) {
           </h1>
           <h1
             onClick={() => {
-              navigate("/courses");
+              navigate("/crossplateform");
               setOpenMenu(false);
             }}
             className="text-white text-4xl border-b w-full pb-3 pr-6 cursor-pointer hover:pr-8 transition-all hover:border-blue-400"
           >
-            الكورسات
+            مسارات
           </h1>
           <h1
             onClick={() => {

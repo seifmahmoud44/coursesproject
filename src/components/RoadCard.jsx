@@ -1,7 +1,7 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 
-const RoadCard = ({ img, count, url }) => {
+const RoadCard = ({ img, count, url, more }) => {
   const navigate = useNavigate();
   return (
     <div>
@@ -17,7 +17,7 @@ const RoadCard = ({ img, count, url }) => {
           <img
             src={img}
             alt=""
-            className=" object-contain m-auto max-w-44 group-hover:scale-125 transition-all"
+            className={` object-contain m-auto max-w-44 group-hover:scale-125 transition-all`}
           />
         </div>
       </div>

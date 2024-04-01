@@ -3,11 +3,11 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import { Outlet } from "react-router-dom";
 import { useEffect, useState } from "react";
-import FakeNav from "./components/FakeNav";
+
 import arrow from "./images/down.png";
 function App() {
   const [openMenu, setOpenMenu] = useState(false);
-  const [fakeNav, setFakeNave] = useState(false);
+
   const [slideNav, setSlideNav] = useState(false);
 
   if (openMenu) {
@@ -40,13 +40,7 @@ function App() {
       >
         <img src={arrow} alt="" />
       </div>
-      {/* <div
-        className={`fixed top-0 left-0 w-full z-40 transition-all ${
-          slideNav ? "translate-y-0" : "-translate-y-full"
-        } `}
-      >
-        <FakeNav setOpenMenu={setFakeNave} openMenu={fakeNav} />
-      </div> */}
+
       <Navbar setOpenMenu={setOpenMenu} openMenu={openMenu} />
       <Outlet />
       <Footer />

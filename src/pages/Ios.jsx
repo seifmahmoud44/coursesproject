@@ -22,26 +22,6 @@ const Ios = () => {
       <div className="w-5/6 m-auto max-md:w-full p-5  grid-cards">
         <div className="box scale-0">
           <CourseCard
-            text={"Flutter Tutorial for Beginners"}
-            lang={"English"}
-            count={englishflutter.length}
-            img={flutter}
-            data={englishflutter}
-            authur={"Net Ninja"}
-          />
-        </div>
-        <div className="box scale-0">
-          <CourseCard
-            text={"تعلم flutter باللغة العربية"}
-            count={arabicflutter.length}
-            lang={"العربية"}
-            img={flutter}
-            data={arabicflutter}
-            authur={"Weal Abo Hamza"}
-          />
-        </div>
-        <div className="box scale-0">
-          <CourseCard
             text={"learn Swift with English"}
             count={swiftEnglish.length}
             lang={"English"}
@@ -58,17 +38,6 @@ const Ios = () => {
             img={swiftImg}
             data={swiftArabic}
             authur={"Abdulrahman Magdy"}
-          />
-        </div>
-
-        <div className="scale-0 box">
-          <CourseCard
-            text={"تعلم React Native باللغة العربية"}
-            count={reactNative.length}
-            lang={"العربية"}
-            img={reactNativeImg}
-            data={reactNative}
-            authur={"mohamed eldsouky"}
           />
         </div>
       </div>

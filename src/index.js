@@ -11,6 +11,7 @@ import Suggest from "./components/Suggest";
 import RoadMaps from "./pages/RoadMaps";
 import Android from "./pages/Android";
 import Ios from "./pages/Ios";
+import CrossPlateform from "./pages/CrossPlateform";
 
 const router = createBrowserRouter([
   {
@@ -44,6 +45,10 @@ const router = createBrowserRouter([
       {
         path: "ios",
         element: <Ios />,
+      },
+      {
+        path: "crossplateform",
+        element: <CrossPlateform />,
       },
     ],
   },
