@@ -70,7 +70,7 @@ function Navbar({ setOpenMenu, openMenu, none }) {
             className="w-10 cursor-pointer hover:scale-125 transition-all"
           />
         </div>
-        <div className="flex justify-center items-center gap-4">
+        <div className="flex justify-center items-center gap-4 max-md:hidden">
           <h1
             onClick={handelNav}
             className="cursor-pointer text-white text-base"
@@ -105,6 +105,14 @@ function Navbar({ setOpenMenu, openMenu, none }) {
         </button>
         <div className="h-full w-full flex flex-col justify-center items-start py-5 gap-10">
           <h1
+            onClick={handelNav}
+            className="cursor-pointer text-white text-2xl mx-auto"
+          >
+            {Cookies.get("token") !== undefined
+              ? `مرحبا ${Cookies.get("name")}`
+              : "تسجيل الدخول"}
+          </h1>
+          <h1
             onClick={() => {
               navigate("/");
               setOpenMenu(false);
@@ -131,6 +139,20 @@ function Navbar({ setOpenMenu, openMenu, none }) {
           >
             اقترح كورس
           </h1>
+
+          <div className="flex justify-center items-center gap-4  w-full">
+            {Cookies.get("token") !== undefined && (
+              <h1
+                onClick={() => {
+                  signout().then((e) => navigate("/"));
+                  setOpenMenu(false);
+                }}
+                className="cursor-pointer text-white text-base border border-red-500 rounded-md py-2 px-4 bg-red-500"
+              >
+                تسجيل خروج
+              </h1>
+            )}
+          </div>
         </div>
       </div>
     </div>
