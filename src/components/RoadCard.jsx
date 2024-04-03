@@ -7,7 +7,7 @@ const RoadCard = ({ img, count, url, more }) => {
     <div>
       <div
         onClick={() => navigate(`/${url}`)}
-        className="w-[400px] relative h-[400px] flex flex-col justify-between items-center border border-gray-300 cursor-pointer group"
+        className=" relative h-[400px] flex flex-col justify-between items-center border border-gray-300 cursor-pointer group"
       >
         <div className="absolute top-3 left-0 bg-blue-500 text-white px-4 py-2">
           <h2>{`${count} كورس`}</h2>

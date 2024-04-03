@@ -14,10 +14,6 @@
   font-family: cairo;
   src: url("../public/Cairo-VariableFont_slnt\,wght.ttf");
 }
-/* body {
-  overflow: hidden;
-  position: relative;
-} */
 
 .bg-home {
   background-image: url(./images/bg.jpg);

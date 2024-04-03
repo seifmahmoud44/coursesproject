@@ -4,6 +4,8 @@ import android from "../images/android.png";
 import vid from "../images/vid.mp4";
 import { useNavigate } from "react-router-dom";
 import RoadCard from "../components/RoadCard";
+import both from "../images/both.png";
+
 // import dart from "../images/dart.png";
 
 const Home = () => {
@@ -32,9 +34,10 @@ const Home = () => {
 
       <div id="courses">
         <h1 className="text-center text-4xl py-9 font-bold">المسارات</h1>
-        <div className="w-5/6 m-auto max-md:w-full p-5 flex justify-around items-center">
+        <div className="w-5/6 m-auto max-md:w-full p-5  grid-cards">
           <RoadCard img={android} count={5} url={"android"} />
           <RoadCard img={ios} count={3} url={"ios"} />
+          <RoadCard img={both} count={3} url={"crossplateform"} more={true} />
         </div>
       </div>
     </div>

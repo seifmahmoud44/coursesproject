@@ -4,13 +4,20 @@ import logo from "../images/WhatsApp Image 2024-03-16 at 11.22.04 PM.jpeg";
 import menuIcon from "../images/hamburger.png";
 import close from "../images/close.png";
 import { useNavigate } from "react-router-dom";
-
+import Cookies from "js-cookie";
+import { signout } from "../useApi";
 function Navbar({ setOpenMenu, openMenu, none }) {
   const navigate = useNavigate();
+  const handelNav = () => {
+    if (Cookies.get("token") === undefined) {
+      navigate("/signin");
+    }
+  };
   return (
     <div id="navbar" className={` h-24 bg-black `}>
       <div className="  w-5/6 max-md:w-full m-auto flex max-md:justify-between justify-start items-center h-full max-md:px-5 ">
         <img src={logo} alt="" className="invert max-md:w-40 " />
+
         <div className="flex justify-center items-center h-full flex-grow gap-6 max-md:hidden ">
           <h1
             onClick={() => navigate("/")}
@@ -63,6 +70,24 @@ function Navbar({ setOpenMenu, openMenu, none }) {
             className="w-10 cursor-pointer hover:scale-125 transition-all"
           />
         </div>
+        <div className="flex justify-center items-center gap-4">
+          <h1
+            onClick={handelNav}
+            className="cursor-pointer text-white text-base"
+          >
+            {Cookies.get("token") !== undefined
+              ? `مرحبا ${Cookies.get("name")}`
+              : "تسجيل الدخول"}
+          </h1>
+          {Cookies.get("token") !== undefined && (
+            <h1
+              onClick={() => signout().then((e) => navigate("/"))}
+              className="cursor-pointer text-white text-base border border-red-500 rounded-md py-2 px-4"
+            >
+              تسجيل خروج
+            </h1>
+          )}
+        </div>
       </div>
 
       <div
@@ -90,7 +115,7 @@ function Navbar({ setOpenMenu, openMenu, none }) {
           </h1>
           <h1
             onClick={() => {
-              navigate("/crossplateform");
+              navigate("/roadmaps");
               setOpenMenu(false);
             }}
             className="text-white text-4xl border-b w-full pb-3 pr-6 cursor-pointer hover:pr-8 transition-all hover:border-blue-400"

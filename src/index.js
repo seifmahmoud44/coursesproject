@@ -12,8 +12,20 @@ import RoadMaps from "./pages/RoadMaps";
 import Android from "./pages/Android";
 import Ios from "./pages/Ios";
 import CrossPlateform from "./pages/CrossPlateform";
+import PrivetRoutes from "./components/PrivetRoutes";
+import Signin from "./pages/Signin";
+import SignUp from "./pages/SignUp";
 
 const router = createBrowserRouter([
+  {
+    path: "/signin",
+    element: <Signin />,
+  },
+  {
+    path: "/signup",
+    element: <SignUp />,
+  },
+
   {
     path: "/",
     element: <App />,
@@ -28,11 +40,19 @@ const router = createBrowserRouter([
       },
       {
         path: "onecourse/:name/:lecturer/:lang",
-        element: <OneCourse />,
+        element: (
+          <PrivetRoutes>
+            <OneCourse />
+          </PrivetRoutes>
+        ),
       },
       {
         path: "Lesson",
-        element: <Lesson />,
+        element: (
+          <PrivetRoutes>
+            <Lesson />
+          </PrivetRoutes>
+        ),
       },
       {
         path: "suggest",
@@ -40,15 +60,27 @@ const router = createBrowserRouter([
       },
       {
         path: "android",
-        element: <Android />,
+        element: (
+          <PrivetRoutes>
+            <Android />
+          </PrivetRoutes>
+        ),
       },
       {
         path: "ios",
-        element: <Ios />,
+        element: (
+          <PrivetRoutes>
+            <Ios />
+          </PrivetRoutes>
+        ),
       },
       {
         path: "crossplateform",
-        element: <CrossPlateform />,
+        element: (
+          <PrivetRoutes>
+            <CrossPlateform />
+          </PrivetRoutes>
+        ),
       },
     ],
   },
