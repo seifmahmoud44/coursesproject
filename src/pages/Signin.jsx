@@ -16,13 +16,13 @@ const Signin = () => {
   } = useForm();
   const onSubmit = (data) => {
     setLoading(true);
-
+    console.log(data);
     signin(data).then((e) => {
       if (e.message === "Login successful") {
         setLoading(false);
-        Cookies.set("token", `${e.user.password}`);
-        Cookies.set("name", `${e.user.name}`);
-        Cookies.set("email", `${e.user.email}`);
+        Cookies.set("token", `${data.password}`);
+        Cookies.set("name", `${data.name}`);
+        Cookies.set("email", `${data.email}`);
         navigate("/");
       } else {
         setMessageErr(true);

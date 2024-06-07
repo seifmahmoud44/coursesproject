@@ -76,7 +76,7 @@ function Navbar({ setOpenMenu, openMenu, none }) {
             className="cursor-pointer text-white text-base"
           >
             {Cookies.get("token") !== undefined
-              ? `مرحبا ${Cookies.get("name")}`
+              ? `مرحبا ${Cookies.get("email")}`
               : "تسجيل الدخول"}
           </h1>
           {Cookies.get("token") !== undefined && (
