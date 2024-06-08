@@ -22,7 +22,6 @@ const SignUp = () => {
     signUp(rest).then((e) => {
       if (e.message === "User registered successfully") {
         signin(rest).then((e) => {
-          Cookies.set("token", `${e.user?.password}`);
           Cookies.set("name", `${data.name}`);
           Cookies.set("email", `${data.email}`);
           navigate("/");
