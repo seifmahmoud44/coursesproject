@@ -75,11 +75,11 @@ function Navbar({ setOpenMenu, openMenu, none }) {
             onClick={handelNav}
             className="cursor-pointer text-white text-base"
           >
-            {Cookies.get("token") !== undefined
+            {Cookies.get("email") !== undefined
               ? `مرحبا ${Cookies.get("email")}`
               : "تسجيل الدخول"}
           </h1>
-          {Cookies.get("token") !== undefined && (
+          {Cookies.get("email") !== undefined && (
             <h1
               onClick={() => signout().then((e) => navigate("/"))}
               className="cursor-pointer text-white text-base border border-red-500 rounded-md py-2 px-4"

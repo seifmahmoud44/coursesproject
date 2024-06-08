@@ -26,5 +26,5 @@ export const signin = async (data) => {
   }
 };
 export const signout = async () => {
-  await Cookies.remove("token");
+  await Cookies.remove("email");
 };
